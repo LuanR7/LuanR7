@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Luan!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE  
-💻 Desenvolvedor em formação
+Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE  
+Desenvolvedor em formação
 
 Atualmente estou estudando desenvolvimento web e buscando evoluir minhas habilidades através de projetos práticos.
 
